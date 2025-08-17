@@ -75,10 +75,6 @@ For collaborations or inquiries: *[Your Email / LinkedIn]*
 
 ---
 
-## License  
-This project is released under the [MIT License](LICENSE).  
-
----
 
 **Hashtags:**  
 `#LoRa #WirelessCommunication #IoT #EmbeddedSystems #TechInnovation #Research`  
