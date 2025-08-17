@@ -44,10 +44,11 @@ This project and its findings have been **published in the IJRPR Journal**.
 3. Smartphone with companion app (Bluetooth enabled)  
 4. Optional: 3D printed case for portability  
 
-*(Insert your hardware images below)*  
+
 ![Device Front](image_2025-08-17_150022479.png)  
 ![Device Internal](image_2025-08-17_150030402.png)  
-![Usage Demo](image_2025-08-17_150030402.png)  
+![side2](image_2025-08-17_150030402.png)  
+![side](image_2025-08-17_150046010.png) 
 
 ---
 
