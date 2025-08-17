@@ -49,7 +49,7 @@ This project and its findings have been **published in the IJRPR Journal**.
 ![Device Internal](image_2025-08-17_150030402.png)  
 ![side2](image_2025-08-17_150035592.png)  
 ![side](image_2025-08-17_150046010.png) 
-
+![side](image_2025-08-17_150938807.png)
 ---
 
 ## How It Works  
