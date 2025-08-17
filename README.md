@@ -45,9 +45,9 @@ This project and its findings have been **published in the IJRPR Journal**.
 4. Optional: 3D printed case for portability  
 
 *(Insert your hardware images below)*  
-![Device Front](images/device_front.jpg)  
-![Device Internal](images/device_internal.jpg)  
-![Usage Demo](images/demo.jpg)  
+![Device Front](image_2025-08-17_150022479.png)  
+![Device Internal](image_2025-08-17_150030402.png)  
+![Usage Demo](image_2025-08-17_150030402.png)  
 
 ---
 
