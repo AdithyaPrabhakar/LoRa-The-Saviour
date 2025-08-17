@@ -34,7 +34,7 @@ We have published a research paper on this project in the **IJRPR Journal**, con
 
 ## Research Publication  
 This project and its findings have been **published in the IJRPR Journal**.  
-[Link to paper (if available online)](https://example.com) *(Replace with actual link)* 
+[Link to paper]([https://example.com](https://drive.google.com/file/d/13FtI-TpBtMStCX1-7-HtiXbm_7wb8_lU/view?usp=sharing)) 
 
 ---
 
